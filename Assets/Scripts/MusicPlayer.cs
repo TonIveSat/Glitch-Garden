@@ -28,23 +28,23 @@ public class MusicPlayer : MonoBehaviour
         }
     }
 
-    public void OnLevelWasLoaded(int level)
-    {
-        Debug.Log("MusicPlayer level loaded: " + level);
-        musicAudioSource.Stop();
-
-        switch (level)
+        public void OnLevelWasLoaded(int level)
         {
-            case 0: musicAudioSource.clip = StartClip; break;
-            case 1: musicAudioSource.clip = GameClip; break;
-            case 2: musicAudioSource.clip = EndClip; break;
-            default:
-                break;
-        }
+            Debug.Log("MusicPlayer level loaded: " + level);
+            musicAudioSource.Stop();
 
-        musicAudioSource.loop = true;
-        musicAudioSource.Play();
-    }
+            switch (level)
+            {
+                case 0: musicAudioSource.clip = StartClip; break;
+                case 1: musicAudioSource.clip = GameClip; break;
+                case 2: musicAudioSource.clip = EndClip; break;
+                default:
+                    break;
+            }
+
+            musicAudioSource.loop = true;
+            musicAudioSource.Play();
+        }
 
     void Start()
     {
