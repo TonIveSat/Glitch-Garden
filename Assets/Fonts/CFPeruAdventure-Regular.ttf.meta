@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 692ec2b4e4687614d9ec162d5f1e46d4
+timeCreated: 1487889151
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: CF Peru Adventure
+  fontNames:
+  - CF Peru Adventure
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
