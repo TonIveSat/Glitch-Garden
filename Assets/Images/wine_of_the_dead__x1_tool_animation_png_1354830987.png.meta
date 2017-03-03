@@ -1,0 +1,1384 @@
+fileFormatVersion: 2
+guid: 29b2d0d57e1e42c48a123eac3fe2d922
+timeCreated: 1488576017
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wine_of_the_dead__x1_tool_animation_png_1354830987_0
+    21300002: wine_of_the_dead__x1_tool_animation_png_1354830987_1
+    21300004: wine_of_the_dead__x1_tool_animation_png_1354830987_2
+    21300006: wine_of_the_dead__x1_tool_animation_png_1354830987_3
+    21300008: wine_of_the_dead__x1_tool_animation_png_1354830987_4
+    21300010: wine_of_the_dead__x1_tool_animation_png_1354830987_5
+    21300012: wine_of_the_dead__x1_tool_animation_png_1354830987_6
+    21300014: wine_of_the_dead__x1_tool_animation_png_1354830987_7
+    21300016: wine_of_the_dead__x1_tool_animation_png_1354830987_8
+    21300018: wine_of_the_dead__x1_tool_animation_png_1354830987_9
+    21300020: wine_of_the_dead__x1_tool_animation_png_1354830987_10
+    21300022: wine_of_the_dead__x1_tool_animation_png_1354830987_11
+    21300024: wine_of_the_dead__x1_tool_animation_png_1354830987_12
+    21300026: wine_of_the_dead__x1_tool_animation_png_1354830987_13
+    21300028: wine_of_the_dead__x1_tool_animation_png_1354830987_14
+    21300030: wine_of_the_dead__x1_tool_animation_png_1354830987_15
+    21300032: wine_of_the_dead__x1_tool_animation_png_1354830987_16
+    21300034: wine_of_the_dead__x1_tool_animation_png_1354830987_17
+    21300036: wine_of_the_dead__x1_tool_animation_png_1354830987_18
+    21300038: wine_of_the_dead__x1_tool_animation_png_1354830987_19
+    21300040: wine_of_the_dead__x1_tool_animation_png_1354830987_20
+    21300042: wine_of_the_dead__x1_tool_animation_png_1354830987_21
+    21300044: wine_of_the_dead__x1_tool_animation_png_1354830987_22
+    21300046: wine_of_the_dead__x1_tool_animation_png_1354830987_23
+    21300048: wine_of_the_dead__x1_tool_animation_png_1354830987_24
+    21300050: wine_of_the_dead__x1_tool_animation_png_1354830987_25
+    21300052: wine_of_the_dead__x1_tool_animation_png_1354830987_26
+    21300054: wine_of_the_dead__x1_tool_animation_png_1354830987_27
+    21300056: wine_of_the_dead__x1_tool_animation_png_1354830987_28
+    21300058: wine_of_the_dead__x1_tool_animation_png_1354830987_29
+    21300060: wine_of_the_dead__x1_tool_animation_png_1354830987_30
+    21300062: wine_of_the_dead__x1_tool_animation_png_1354830987_31
+    21300064: wine_of_the_dead__x1_tool_animation_png_1354830987_32
+    21300066: wine_of_the_dead__x1_tool_animation_png_1354830987_33
+    21300068: wine_of_the_dead__x1_tool_animation_png_1354830987_34
+    21300070: wine_of_the_dead__x1_tool_animation_png_1354830987_35
+    21300072: wine_of_the_dead__x1_tool_animation_png_1354830987_36
+    21300074: wine_of_the_dead__x1_tool_animation_png_1354830987_37
+    21300076: wine_of_the_dead__x1_tool_animation_png_1354830987_38
+    21300078: wine_of_the_dead__x1_tool_animation_png_1354830987_39
+    21300080: wine_of_the_dead__x1_tool_animation_png_1354830987_40
+    21300082: wine_of_the_dead__x1_tool_animation_png_1354830987_41
+    21300084: wine_of_the_dead__x1_tool_animation_png_1354830987_42
+    21300086: wine_of_the_dead__x1_tool_animation_png_1354830987_43
+    21300088: wine_of_the_dead__x1_tool_animation_png_1354830987_44
+    21300090: wine_of_the_dead__x1_tool_animation_png_1354830987_45
+    21300092: wine_of_the_dead__x1_tool_animation_png_1354830987_46
+    21300094: wine_of_the_dead__x1_tool_animation_png_1354830987_47
+    21300096: wine_of_the_dead__x1_tool_animation_png_1354830987_48
+    21300098: wine_of_the_dead__x1_tool_animation_png_1354830987_49
+    21300100: wine_of_the_dead__x1_tool_animation_png_1354830987_50
+    21300102: wine_of_the_dead__x1_tool_animation_png_1354830987_51
+    21300104: wine_of_the_dead__x1_tool_animation_png_1354830987_52
+    21300106: wine_of_the_dead__x1_tool_animation_png_1354830987_53
+    21300108: wine_of_the_dead__x1_tool_animation_png_1354830987_54
+    21300110: wine_of_the_dead__x1_tool_animation_png_1354830987_55
+    21300112: wine_of_the_dead__x1_tool_animation_png_1354830987_56
+    21300114: wine_of_the_dead__x1_tool_animation_png_1354830987_57
+    21300116: wine_of_the_dead__x1_tool_animation_png_1354830987_58
+    21300118: wine_of_the_dead__x1_tool_animation_png_1354830987_59
+    21300120: wine_of_the_dead__x1_tool_animation_png_1354830987_60
+    21300122: wine_of_the_dead__x1_tool_animation_png_1354830987_61
+    21300124: wine_of_the_dead__x1_tool_animation_png_1354830987_62
+    21300126: wine_of_the_dead__x1_tool_animation_png_1354830987_63
+    21300128: wine_of_the_dead__x1_tool_animation_png_1354830987_64
+    21300130: wine_of_the_dead__x1_tool_animation_png_1354830987_65
+    21300132: wine_of_the_dead__x1_tool_animation_png_1354830987_66
+    21300134: wine_of_the_dead__x1_tool_animation_png_1354830987_67
+    21300136: wine_of_the_dead__x1_tool_animation_png_1354830987_68
+    21300138: wine_of_the_dead__x1_tool_animation_png_1354830987_69
+    21300140: wine_of_the_dead__x1_tool_animation_png_1354830987_70
+    21300142: wine_of_the_dead__x1_tool_animation_png_1354830987_71
+    21300144: wine_of_the_dead__x1_tool_animation_png_1354830987_72
+    21300146: wine_of_the_dead__x1_tool_animation_png_1354830987_73
+    21300148: wine_of_the_dead__x1_tool_animation_png_1354830987_74
+    21300150: wine_of_the_dead__x1_tool_animation_png_1354830987_75
+    21300152: wine_of_the_dead__x1_tool_animation_png_1354830987_76
+    21300154: wine_of_the_dead__x1_tool_animation_png_1354830987_77
+    21300156: wine_of_the_dead__x1_tool_animation_png_1354830987_78
+    21300158: wine_of_the_dead__x1_tool_animation_png_1354830987_79
+    21300160: wine_of_the_dead__x1_tool_animation_png_1354830987_80
+    21300162: wine_of_the_dead__x1_tool_animation_png_1354830987_81
+    21300164: wine_of_the_dead__x1_tool_animation_png_1354830987_82
+    21300166: wine_of_the_dead__x1_tool_animation_png_1354830987_83
+    21300168: wine_of_the_dead__x1_tool_animation_png_1354830987_84
+    21300170: wine_of_the_dead__x1_tool_animation_png_1354830987_85
+    21300172: wine_of_the_dead__x1_tool_animation_png_1354830987_86
+    21300174: wine_of_the_dead__x1_tool_animation_png_1354830987_87
+    21300176: wine_of_the_dead__x1_tool_animation_png_1354830987_88
+    21300178: wine_of_the_dead__x1_tool_animation_png_1354830987_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_2
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_3
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_4
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_6
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_7
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_8
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_9
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_10
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_11
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_12
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_13
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_14
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 445
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_16
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_18
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_20
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_21
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_22
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_24
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_25
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_26
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_27
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_28
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_29
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 356
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_32
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_33
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_34
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_35
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_36
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_37
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_39
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_40
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_41
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_42
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_43
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 267
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_46
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_48
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_49
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_50
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_51
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_52
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_53
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_54
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_55
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_56
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_57
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_58
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_59
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 178
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_61
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_63
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_64
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_65
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_66
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_67
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_69
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_70
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_71
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_72
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_73
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_74
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 89
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_76
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_77
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_78
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_79
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_80
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_81
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_82
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_83
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_84
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_85
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_86
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_87
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_88
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wine_of_the_dead__x1_tool_animation_png_1354830987_89
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 0
+        width: 66
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

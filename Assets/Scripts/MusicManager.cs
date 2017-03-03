@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System;
+using UnityEngine;
 
 public class MusicManager : MonoBehaviour
 {
@@ -15,12 +16,18 @@ public class MusicManager : MonoBehaviour
             instance = this;
             GameObject.DontDestroyOnLoad(gameObject);
             musicAudioSource = GetComponent<AudioSource>();
+            musicAudioSource.volume = PlayerPrefsManager.GetMasterVolume();
             musicAudioSource.loop = false;
         }
         else
         {
             GameObject.Destroy(gameObject);
         }
+    }
+
+    public void ChangeVolume(float volume)
+    {
+        musicAudioSource.volume = volume;
     }
 
     // Use this for initialization
