@@ -1,5 +1,5 @@
-﻿using System;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class MusicManager : MonoBehaviour
 {
@@ -36,14 +36,20 @@ public class MusicManager : MonoBehaviour
         musicAudioSource = GetComponent<AudioSource>();
     }
 
-    // Update is called once per frame
-    void Update ()
+    void OnEnable()
     {
-		
-	}
+        SceneManager.sceneLoaded += OnSceneLoaded;
+    }
 
-    public void OnLevelWasLoaded(int level)
+    void OnDisable()
     {
+        SceneManager.sceneLoaded -= OnSceneLoaded;
+    }
+
+    private void OnSceneLoaded(Scene scene, LoadSceneMode mode)
+    {
+        int level = scene.buildIndex;
+
         Debug.Log("MusicManager level loaded: " + level);
         musicAudioSource.Stop();
         var audioClip = LevelMusicChangeArray[level];
