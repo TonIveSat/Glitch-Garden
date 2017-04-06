@@ -10,8 +10,7 @@ public class Shooter : MonoBehaviour
 
     private void Fire()
     {
-        var newProjectile = Instantiate(ProjectileToBeShot, ProjectileParent.transform.position, new Quaternion()) as GameObject;
-        newProjectile.transform.parent = ProjectileParent.transform;
+        var newProjectile = Instantiate(ProjectileToBeShot, ProjectileParent.transform) as GameObject;
         newProjectile.transform.position = Gun.transform.position;
     }
 
