@@ -3,6 +3,8 @@
 [RequireComponent(typeof(Rigidbody2D))]
 public class Attacker : MonoBehaviour
 {
+    public float Health;
+
     private float currentSpeed;
 
     private GameObject currentTarget;
@@ -27,7 +29,7 @@ public class Attacker : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(name + " triggered by OnTriggerEnter2D");
+        Debug.Log(name + " was hit by " + collision.name);
     }
 
     public void SetSpeed(float speed)

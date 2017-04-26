@@ -23,7 +23,7 @@ public class Health : MonoBehaviour
     {
         HitPoints -= damage;
 
-        if (HitPoints <= 0 && isDefender)
+        if (HitPoints <= 0)
         {
             Die();
         }
