@@ -29,7 +29,7 @@ public class Attacker : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        Debug.Log(name + " was hit by " + collision.name);
+        // Debug.Log(name + " was hit by " + collision.name);
     }
 
     public void SetSpeed(float speed)
@@ -53,7 +53,7 @@ public class Attacker : MonoBehaviour
         }
 
         defenderHealthComponent.TakeDamage(damage);
-        Debug.Log(name + " strikes with " + damage + " damage");
+        // Debug.Log(name + " strikes with " + damage + " damage");
     }
 
     public void Attack(GameObject obj)
