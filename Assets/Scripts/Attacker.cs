@@ -5,6 +5,8 @@ public class Attacker : MonoBehaviour
 {
     public float Health;
 
+    public float SecondsBetweenAppearances;
+
     private float currentSpeed;
 
     private GameObject currentTarget;
