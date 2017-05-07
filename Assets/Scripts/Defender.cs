@@ -2,10 +2,14 @@
 
 public class Defender : MonoBehaviour
 {
-	// Use this for initialization
-	void Start () {
-		
-	}
+    private int totalStars = 0;
+
+    private MouthDisplay mouthDisplay;
+
+    // Use this for initialization
+    void Start () {
+        mouthDisplay = FindObjectOfType<MouthDisplay>();
+    }
 	
 	// Update is called once per frame
 	void Update ()
@@ -16,5 +20,10 @@ public class Defender : MonoBehaviour
     private void OnTriggerEnter2D(Collider2D collision)
     {
         // Debug.Log(name + " triggered by OnTriggerEnter2D");
+    }
+
+    private void AddStars(int amount)
+    {
+        mouthDisplay.AddMouths(amount);
     }
 }
