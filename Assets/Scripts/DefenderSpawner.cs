@@ -6,9 +6,12 @@ public class DefenderSpawner : MonoBehaviour
 
     private GameObject defenders;
 
+    private MouthDisplay mouthDisplay;
+
     // Use this for initialization
     void Start ()
     {
+        mouthDisplay = GameObject.FindObjectOfType<MouthDisplay>();
         defenders = GameObject.Find("Defenders");
         if (defenders == null)
         {
@@ -22,6 +25,15 @@ public class DefenderSpawner : MonoBehaviour
 	}
 
     private void OnMouseDown()
+    {
+        var defender = Button.selectedDefender.GetComponent<Defender>();
+        if (mouthDisplay.UseMouths(defender.Cost) == MouthDisplay.Status.Success)
+        {
+            BuyDefender();
+        }
+    }
+
+    private void BuyDefender()
     {
         //Debug.Log(Input.mousePosition);
         var square = CalculateWorldSpacePosition(Input.mousePosition);

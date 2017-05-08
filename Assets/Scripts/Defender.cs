@@ -2,6 +2,8 @@
 
 public class Defender : MonoBehaviour
 {
+    public int Cost = 100;
+
     private int totalStars = 0;
 
     private MouthDisplay mouthDisplay;

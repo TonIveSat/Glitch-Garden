@@ -3,14 +3,16 @@ using UnityEngine;
 
 public class MouthDisplay : MonoBehaviour
 {
-    int totalMouths;
+    public int TotalMouths = 100;
+
+    public enum Status { Success, Failure }
 
     private Text textBox;
 	// Use this for initialization
 	void Start ()
     {
-        totalMouths = 0;
         textBox = GetComponent<Text>();
+        UpdateMouths();
     }
 	
 	// Update is called once per frame
@@ -19,18 +21,26 @@ public class MouthDisplay : MonoBehaviour
 
     public void AddMouths(int amount)
     {
-        totalMouths += amount;
+        TotalMouths += amount;
         UpdateMouths();
     }
 
-    public void UseMouths(int amount)
+    public Status UseMouths(int amount)
     {
-        totalMouths -= amount;
-        UpdateMouths();
+        if (TotalMouths >= amount)
+        {
+            TotalMouths -= amount;
+            UpdateMouths();
+            return Status.Success;
+        }
+        else
+        {
+            return Status.Failure;
+        }
     }
 
     private void UpdateMouths()
     {
-        textBox.text = totalMouths.ToString();
+        textBox.text = TotalMouths.ToString();
     }
 }
