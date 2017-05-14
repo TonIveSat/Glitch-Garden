@@ -1,4 +1,5 @@
 ﻿using UnityEngine;
+using UnityEngine.UI;
 
 public class Button : MonoBehaviour
 {
@@ -9,7 +10,7 @@ public class Button : MonoBehaviour
 	// Use this for initialization
 	void Start ()
     {
-		
+        transform.GetComponentInChildren<Text>().text = Defender.GetComponent<Defender>().Cost.ToString();
 	}
 	
 	// Update is called once per frame
@@ -22,7 +23,7 @@ public class Button : MonoBehaviour
     {
         // Debug.Log(name + " clicked");
 
-        SetColorOfAllButtons(Color.black);
+        SetColorOfAllButtons(Color.gray * 0.50f);
         SetColorOfButton(Color.white, this);
         selectedDefender = Defender;
     }

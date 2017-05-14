@@ -7,14 +7,17 @@ public class Health : MonoBehaviour
 
     private bool isDefender;
 
-	// Use this for initialization
-	void Start ()
+    private bool isStone;
+    
+    // Use this for initialization
+    void Start ()
     {
         isDefender = GetComponent<Defender>() != null;
-	}
-	
-	// Update is called once per frame
-	void Update ()
+        isStone = GetComponent<Stone>() != null;
+    }
+
+    // Update is called once per frame
+    void Update ()
     {
 		
 	}
@@ -26,6 +29,10 @@ public class Health : MonoBehaviour
         if (HitPoints <= 0)
         {
             Die();
+        }
+        else if (isStone)
+        {
+            GetComponent<Animator>().SetTrigger("Under Attack Trigger");
         }
     }
 

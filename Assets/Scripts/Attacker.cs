@@ -48,14 +48,12 @@ public class Attacker : MonoBehaviour
         }
 
         var defenderHealthComponent = currentTarget.GetComponent<Health>();
-
         if (defenderHealthComponent == null)
         {
             return;
         }
 
         defenderHealthComponent.TakeDamage(damage);
-        // Debug.Log(name + " strikes with " + damage + " damage");
     }
 
     public void Attack(GameObject obj)

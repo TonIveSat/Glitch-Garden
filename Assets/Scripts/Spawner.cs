@@ -2,6 +2,8 @@
 
 public class Spawner : MonoBehaviour
 {
+    public float SpawnRateModifier = 1f;
+
     public GameObject[] Attackers;
 
 	// Use this for initialization
@@ -15,7 +17,7 @@ public class Spawner : MonoBehaviour
         var maxAttackerIndex = Attackers.Length-1;
         foreach (var attacker in Attackers)
         { 
-            if (Random.value < Time.deltaTime / attacker.GetComponent<Attacker>().SecondsBetweenAppearances)
+            if (Random.value < Time.deltaTime * SpawnRateModifier / attacker.GetComponent<Attacker>().SecondsBetweenAppearances)
             {
                 Spawn(attacker);
             }
